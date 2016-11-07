@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello world jsp, изменения внесены в 5:56,
-для проверки формирования по изменению, решение 
-должно быть перестроено в 6:35
+hello world jsp, change 15:25
 </body>
 </html>
